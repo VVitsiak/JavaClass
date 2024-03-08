@@ -20,6 +20,7 @@ public class Main {
     }
 
     /**
+     * Method to calculates the circle area
      * @param radius od the circule to caclulate the area
      * @return the area of the circle
      */
@@ -28,7 +29,8 @@ public class Main {
     }
 
     /**
-     * @param radius
+     * Method to calculates the rectangle area
+     * @param radius od the rectangle to calculate the area
      * @return the area of the rectangle
      */
     private static double calculateRectangleAreaInCircle(double radius) {
